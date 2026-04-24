@@ -28,3 +28,5 @@ The project involved analyzing the training and optimization process:
 * **Language:** Python
 * **Libraries:** AutoGluon, Pandas, Matplotlib, Seaborn
 * **Platform:** AWS SageMaker / Local Jupyter Environment
+  
+*Developed by Ghaida Alharbi*
